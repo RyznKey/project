@@ -85,7 +85,7 @@ p {
     background-size: cover;
     background-position: top center;
     position: relative;
-    background-image: url(./assets/image/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers.jpg);
+    background-image: url(./assets/image/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers.webp);
 }
 
 #hero::after {
@@ -176,7 +176,7 @@ p {
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(./assets/image/giant-building-with-sun.jpg);
+    background-image: url(./assets/image/giant-building-with-sun.webp);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
@@ -335,8 +335,8 @@ p {
 }
 
 #about .col-left .about-img {
-    height: 50vh;
-    width: 50%;
+    height: 45vh;
+    width: 35vh;
     position: relative;
     border: 10px solid white;
 }
